@@ -1,0 +1,11 @@
+{
+  "targets": {
+    "my-dev-app-1d916": {
+      "hosting": {
+        "firestarter": [
+          "my-dev-app-1d916"
+        ]
+      }
+    }
+  }
+}
